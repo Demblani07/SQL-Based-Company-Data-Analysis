@@ -143,6 +143,25 @@ link daalne hai
 **Output:-**
 link daalne hai
 
+### Find the names of employees who earn more than the highest salary in the 'HR' department.
+
+![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/cac94757-ba4a-4056-98d3-3e9e4277ec54)
+
+**Output:-**
+link daalne hai
+
+### Find the employees who earn more than the average salary in their department.
+
+![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/ec7e0cf3-08f4-4a81-b939-e7afe32e1f33)
+
+**Output:-**
+link daalne hai
+
+
+
+
+
+
 
 
 
