@@ -17,14 +17,14 @@ This project focuses on developing a comprehensive SQL-based system for analyzin
 
 ## SQL Queries and Analysis
 
-### Which employees work in departments with more than 2 employees?
+### 1. Which employees work in departments with more than 2 employees?
 
 ![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/57376933-a0f2-4a36-a753-7d7f0454aca7)
 
 **Output:-**
 https://tinyurl.com/sOutput1
 
-### Find the names of employees, along with their project names, who have been assigned to a project.
+### 2. Find the names of employees, along with their project names, who have been assigned to a project.
 
 ![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/5ad45e51-1a98-4774-84f1-a897656bb8e2)
 
