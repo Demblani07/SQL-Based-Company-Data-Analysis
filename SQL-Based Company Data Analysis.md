@@ -1,4 +1,4 @@
-# SQL-Based Company Data Analysis
+# Case Study: SQL-Based Company Data Analysis
 
 ## Introduction
 
@@ -15,7 +15,7 @@ This project focuses on developing a comprehensive SQL-based system for analyzin
 ## Schema
 ![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/76ab0ae8-7cea-4911-a2e5-dda3a532e8fd)
 
-# SQL Queries and Analysis
+## SQL Queries and Analysis
 
 ### Which employees work in departments with more than 2 employees?
 
@@ -108,7 +108,7 @@ https://tinyurl.com/sOutput12
 **Output:-**
 https://tinyurl.com/sOutput13
 
-#### Identify employees whose salary is above the average salary of their department but below the overall average salary.
+### Identify employees whose salary is above the average salary of their department but below the overall average salary.
 
 ![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/931f3ca7-a665-4216-b04c-791144ce67ea)
 
@@ -156,6 +156,10 @@ https://tinyurl.com/sOutput19
 
 **Output:-**
 https://tinyurl.com/sOutput20
+
+
+## Conclusion
+This case study demonstrates the practical application of SQL for managing and analyzing company data related to employees, departments, and projects. By leveraging SQL queries, organizations can gain valuable insights into their operations, enabling better decision-making and efficient resource management. The structured approach to creating, populating, and querying the database serves as a foundation for more advanced data analysis and reporting.
 
 
 
