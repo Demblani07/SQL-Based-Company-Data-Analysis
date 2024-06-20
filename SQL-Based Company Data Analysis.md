@@ -124,7 +124,7 @@ https://tinyurl.com/sOutput15
 
 ### 16. List the names of employees who work on 'Project A'.
 
-![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/6e2786f6-edff-4f1d-af0a-35275099e8b7
+![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/064e2efd-853f-4f6a-b178-5383817c5ca3)
 
 **Output:-**
 https://tinyurl.com/sOutput16
