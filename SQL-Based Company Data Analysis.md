@@ -1,3 +1,5 @@
+# SQL-Based Company Data Analysis
+
 # Introduction
 
 **Project Title:** SQL-Based Company Data Analysis
@@ -17,7 +19,11 @@ This project focuses on developing a comprehensive SQL-based system for analyzin
 
 **# Which employees work in departments with more than 2 employees?**
 
-![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/128aefb0-44ca-4f36-8d53-802e3d4f4428)
+![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/f74a49f7-fdec-45d3-a959-83e7a881af57
+
+Output:-
+
+
 
 
 
