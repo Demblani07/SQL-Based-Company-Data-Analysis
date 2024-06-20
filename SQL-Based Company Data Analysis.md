@@ -19,10 +19,11 @@ This project focuses on developing a comprehensive SQL-based system for analyzin
 
 **# Which employees work in departments with more than 2 employees?**
 
-![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/f74a49f7-fdec-45d3-a959-83e7a881af57
+![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/57376933-a0f2-4a36-a753-7d7f0454aca7)
+
 
 Output:-
-
+https://tinyurl.com/2cxq2ub7
 
 
 
