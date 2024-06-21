@@ -27,7 +27,7 @@ The dataset includes the following tables:
 
 ### Prerequisites
 - SQL database (e.g., MySQL, PostgreSQL)
-- SQL client (e.g., MySQL Workbench, pgAdmin)
+- SQL client (e.g., MySQL Workbench)
 
 ## SQL Queries and Results
 
