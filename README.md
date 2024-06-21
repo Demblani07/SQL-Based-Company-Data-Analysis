@@ -1,21 +1,35 @@
 # Case Study: SQL-Based Company Data Analysis
 
-## Introduction
+## Project Overview:
 
-**Project Title:** SQL-Based Company Data Analysis
+This project provides a comprehensive analysis of company data using SQL. It includes various queries to extract meaningful insights from datasets related to employees, departments, and projects.
 
-## Overview:
+## Dataset and Schema
+### Dataset
 
-This project focuses on developing a comprehensive SQL-based system for analyzing and managing company data, specifically targeting employee, department, and project information. The system is designed to provide insightful analysis and efficient data management for organizations seeking to optimize their operations and decision-making processes.
+The dataset includes the following tables:
+- **Employees**: Contains details about employees (id, name, department_id, salary).
+- **Departments**: Contains department information (id, name).
+- **Projects**: Contains project details (id, name).
+- **EmployeeProjects**: Links employees to projects (employee_id, project_id).
 
-## Dataset Overview
-
-**Dataset Source:** Generated using ChatGPT
-
-## Schema
+### Schema
 ![image](https://github.com/Demblani07/SQL-Based-Company-Data-Analysis/assets/139964555/76ab0ae8-7cea-4911-a2e5-dda3a532e8fd)
 
-## SQL Queries and Analysis
+## Instructions
+### Setup
+1. Clone the repository.
+    ```bash
+    git clone https://github.com/Demblani07/SQL-Based-Company-Data-Analysis.git
+    ```
+2. Import the sample data into your SQL database.
+3. Run the SQL scripts in the specified order.
+
+### Prerequisites
+- SQL database (e.g., MySQL, PostgreSQL)
+- SQL client (e.g., MySQL Workbench, pgAdmin)
+
+## SQL Queries and Results
 
 ### 1. Which employees work in departments with more than 2 employees?
 
